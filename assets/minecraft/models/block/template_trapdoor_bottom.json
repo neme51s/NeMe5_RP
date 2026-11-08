@@ -108,15 +108,39 @@
      "texture": "#texture"
     },
     "west": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "east": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "north": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "south": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     }
    }
@@ -152,15 +176,39 @@
      "texture": "#texture"
     },
     "west": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "east": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "north": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "south": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     }
    }
@@ -196,15 +244,39 @@
      "texture": "#texture"
     },
     "west": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "east": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "north": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "south": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     }
    }
@@ -240,15 +312,39 @@
      "texture": "#texture"
     },
     "west": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "east": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "north": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     },
     "south": {
+     "uv": [
+      0,
+      0,
+      2,
+      2
+     ],
      "texture": "#texture"
     }
    }
