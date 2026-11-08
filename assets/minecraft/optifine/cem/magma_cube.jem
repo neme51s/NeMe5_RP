@@ -1,0 +1,354 @@
+{
+ "textureSize": [
+  64,
+  128
+ ],
+ "models": [
+  {
+   "part": "core",
+   "id": "core",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -2.0,
+      2.0,
+      -2.0,
+      4,
+      4,
+      4
+     ],
+     "textureOffset": [
+      0,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment1",
+   "id": "segment1",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      7.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      17,
+      0
+     ]
+    },
+    {
+     "coordinates": [
+      3.0,
+      7.0,
+      3.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      50,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment2",
+   "id": "segment2",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      6.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      10
+     ]
+    },
+    {
+     "coordinates": [
+      -4.0,
+      6.0,
+      1.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment3",
+   "id": "segment3",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      5.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      20
+     ]
+    },
+    {
+     "coordinates": [
+      2.0,
+      5.0,
+      -5.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment4",
+   "id": "segment4",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      4.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      30
+     ]
+    },
+    {
+     "coordinates": [
+      -3.0,
+      4.0,
+      -3.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      30
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment5",
+   "id": "segment5",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      3.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      40
+     ]
+    },
+    {
+     "coordinates": [
+      3.0,
+      3.0,
+      3.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      40
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment6",
+   "id": "segment6",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      2.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      50
+     ]
+    },
+    {
+     "coordinates": [
+      -4.0,
+      2.0,
+      1.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      50
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment7",
+   "id": "segment7",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      1.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      60
+     ]
+    },
+    {
+     "coordinates": [
+      2.0,
+      1.0,
+      -5.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      60
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment8",
+   "id": "segment8",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      0.0,
+      -4.0,
+      8,
+      1,
+      8
+     ],
+     "textureOffset": [
+      0,
+      70
+     ]
+    },
+    {
+     "coordinates": [
+      -3.0,
+      0.0,
+      -3.0,
+      2,
+      1,
+      2
+     ],
+     "textureOffset": [
+      33,
+      70
+     ]
+    }
+   ]
+  }
+ ]
+}

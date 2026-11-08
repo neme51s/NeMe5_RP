@@ -1,0 +1,1136 @@
+{
+ "textureSize": [
+  128,
+  128
+ ],
+ "models": [
+  {
+   "part": "body",
+   "id": "body",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    -6.4,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -8.0,
+      -1.6,
+      -8.0,
+      16,
+      16,
+      16
+     ],
+     "textureOffset": [
+      0,
+      0
+     ]
+    },
+    {
+     "coordinates": [
+      -8.0,
+      9.4,
+      -9.0,
+      16,
+      2,
+      1
+     ],
+     "textureOffset": [
+      65,
+      0
+     ]
+    },
+    {
+     "coordinates": [
+      -6.0,
+      14.4,
+      -6.0,
+      12,
+      1,
+      12
+     ],
+     "textureOffset": [
+      0,
+      33
+     ]
+    },
+    {
+     "coordinates": [
+      -3.0,
+      16.4,
+      -3.0,
+      5,
+      1,
+      6
+     ],
+     "textureOffset": [
+      49,
+      33
+     ]
+    },
+    {
+     "coordinates": [
+      8.0,
+      2.4,
+      -5.0,
+      1,
+      8,
+      9
+     ],
+     "textureOffset": [
+      72,
+      33
+     ]
+    },
+    {
+     "coordinates": [
+      -9.0,
+      3.4,
+      -4.0,
+      1,
+      6,
+      9
+     ],
+     "textureOffset": [
+      93,
+      33
+     ]
+    },
+    {
+     "coordinates": [
+      -5.0,
+      -2.6,
+      -6.0,
+      10,
+      1,
+      12
+     ],
+     "textureOffset": [
+      0,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      2.0749242087261788,
+      14.4,
+      1.4524469461083251,
+      5,
+      1,
+      5
+     ],
+     "textureOffset": [
+      45,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      -3.2985034357989713,
+      8.609087899358881,
+      8.0,
+      6,
+      6,
+      1
+     ],
+     "textureOffset": [
+      66,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      8.0,
+      4.147284481280929,
+      1.1736248587684157,
+      2,
+      6,
+      6
+     ],
+     "textureOffset": [
+      81,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      8.0,
+      1.8035654641953704,
+      -3.4941694910930403,
+      1,
+      6,
+      6
+     ],
+     "textureOffset": [
+      98,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      8.0,
+      9.95050311777832,
+      -1.018523831329568,
+      2,
+      5,
+      5
+     ],
+     "textureOffset": [
+      113,
+      51
+     ]
+    },
+    {
+     "coordinates": [
+      -0.4003869350295357,
+      14.4,
+      -0.28027085452067496,
+      4,
+      1,
+      4
+     ],
+     "textureOffset": [
+      0,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -0.4871435615427231,
+      14.4,
+      -0.34100049307990615,
+      3,
+      1,
+      3
+     ],
+     "textureOffset": [
+      17,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -1.3660006175576678,
+      4.12826627857818,
+      8.0,
+      6,
+      6,
+      2
+     ],
+     "textureOffset": [
+      30,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -1.372941180604375,
+      14.4,
+      -0.9610588264230624,
+      5,
+      1,
+      5
+     ],
+     "textureOffset": [
+      47,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -5.893853770117447,
+      1.1164235838384169,
+      8.0,
+      6,
+      6,
+      2
+     ],
+     "textureOffset": [
+      68,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -2.6741732045801396,
+      14.4,
+      -1.8719212432060977,
+      3,
+      1,
+      3
+     ],
+     "textureOffset": [
+      85,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      -4.609850270447041,
+      14.4,
+      -3.2268951893129287,
+      6,
+      1,
+      6
+     ],
+     "textureOffset": [
+      98,
+      65
+     ]
+    },
+    {
+     "coordinates": [
+      1.6243522172928238,
+      6.036888836367789,
+      8.0,
+      5,
+      5,
+      1
+     ],
+     "textureOffset": [
+      0,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -10.0,
+      4.9525820351413765,
+      -5.176539554432589,
+      2,
+      4,
+      5
+     ],
+     "textureOffset": [
+      13,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -9.0,
+      5.580024739279343,
+      -2.748623468872582,
+      1,
+      6,
+      6
+     ],
+     "textureOffset": [
+      28,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -2.5113137900034417,
+      2.553399808840273,
+      8.0,
+      3,
+      3,
+      1
+     ],
+     "textureOffset": [
+      43,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      8.0,
+      9.766226728523439,
+      -2.584984456047188,
+      1,
+      6,
+      6
+     ],
+     "textureOffset": [
+      52,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -10.0,
+      6.017962388671655,
+      -0.5544937155313381,
+      2,
+      5,
+      5
+     ],
+     "textureOffset": [
+      67,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -7.0,
+      -0.6,
+      -9.0,
+      4,
+      6,
+      1
+     ],
+     "textureOffset": [
+      82,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      3.0,
+      -0.6,
+      -9.0,
+      4,
+      6,
+      1
+     ],
+     "textureOffset": [
+      93,
+      74
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle1",
+   "id": "tentacle1",
+   "invertAxis": "xy",
+   "translate": [
+    3.75,
+    0.6,
+    5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -5.25,
+      -3.6,
+      -6.5,
+      3,
+      3,
+      3
+     ],
+     "textureOffset": [
+      104,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -4.75,
+      -7.6,
+      -6.0,
+      2,
+      3,
+      2
+     ],
+     "textureOffset": [
+      117,
+      74
+     ]
+    },
+    {
+     "coordinates": [
+      -4.25,
+      -8.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      0,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -2.75,
+      -5.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      5,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -5.75,
+      -2.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      10,
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle2",
+   "id": "tentacle2",
+   "invertAxis": "xy",
+   "translate": [
+    -1.25,
+    0.6,
+    5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -0.25,
+      -6.6,
+      -6.5,
+      3,
+      6,
+      3
+     ],
+     "textureOffset": [
+      15,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      0.25,
+      -12.6,
+      -6.0,
+      2,
+      6,
+      2
+     ],
+     "textureOffset": [
+      28,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      0.75,
+      -13.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      37,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      2.25,
+      -8.6,
+      -5.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      42,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -0.75,
+      -5.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      47,
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle3",
+   "id": "tentacle3",
+   "invertAxis": "xy",
+   "translate": [
+    -6.25,
+    0.6,
+    5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      4.75,
+      -4.6,
+      -6.5,
+      3,
+      3,
+      3
+     ],
+     "textureOffset": [
+      52,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      5.25,
+      -9.6,
+      -6.0,
+      2,
+      5,
+      2
+     ],
+     "textureOffset": [
+      65,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      5.75,
+      -10.6,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      74,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      7.25,
+      -6.6,
+      -5.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      79,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      4.25,
+      -3.5999999999999996,
+      -5.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      84,
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle4",
+   "id": "tentacle4",
+   "invertAxis": "xy",
+   "translate": [
+    6.25,
+    0.6,
+    -0.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -7.75,
+      -7.6,
+      -1.5,
+      3,
+      7,
+      3
+     ],
+     "textureOffset": [
+      89,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -7.25,
+      -14.6,
+      -1.0,
+      2,
+      7,
+      2
+     ],
+     "textureOffset": [
+      102,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -6.75,
+      -15.6,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      111,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -5.25,
+      -9.6,
+      -0.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      116,
+      87
+     ]
+    },
+    {
+     "coordinates": [
+      -8.25,
+      -6.6,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      121,
+      87
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle5",
+   "id": "tentacle5",
+   "invertAxis": "xy",
+   "translate": [
+    1.25,
+    0.6,
+    -0.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -2.75,
+      -6.6,
+      -1.5,
+      3,
+      6,
+      3
+     ],
+     "textureOffset": [
+      0,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -2.25,
+      -11.6,
+      -1.0,
+      2,
+      5,
+      2
+     ],
+     "textureOffset": [
+      13,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -1.75,
+      -12.6,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      22,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -0.25,
+      -8.6,
+      -0.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      27,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -3.25,
+      -5.6,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      32,
+      98
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle6",
+   "id": "tentacle6",
+   "invertAxis": "xy",
+   "translate": [
+    -3.75,
+    0.6,
+    -0.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      2.25,
+      -4.6,
+      -1.5,
+      3,
+      3,
+      3
+     ],
+     "textureOffset": [
+      37,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      2.75,
+      -8.6,
+      -1.0,
+      2,
+      4,
+      2
+     ],
+     "textureOffset": [
+      50,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      3.25,
+      -9.6,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      59,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      4.75,
+      -6.6,
+      -0.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      64,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      1.75,
+      -3.5999999999999996,
+      -0.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      69,
+      98
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle7",
+   "id": "tentacle7",
+   "invertAxis": "xy",
+   "translate": [
+    3.75,
+    0.6,
+    -5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -5.25,
+      -7.6,
+      3.5,
+      3,
+      7,
+      3
+     ],
+     "textureOffset": [
+      74,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -4.75,
+      -13.6,
+      4.0,
+      2,
+      6,
+      2
+     ],
+     "textureOffset": [
+      87,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -4.25,
+      -14.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      96,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -2.75,
+      -9.6,
+      4.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      101,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      -5.75,
+      -6.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      106,
+      98
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle8",
+   "id": "tentacle8",
+   "invertAxis": "xy",
+   "translate": [
+    -1.25,
+    0.6,
+    -5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -0.25,
+      -5.6,
+      3.5,
+      3,
+      5,
+      3
+     ],
+     "textureOffset": [
+      111,
+      98
+     ]
+    },
+    {
+     "coordinates": [
+      0.25,
+      -10.6,
+      4.0,
+      2,
+      5,
+      2
+     ],
+     "textureOffset": [
+      0,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      0.75,
+      -11.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      9,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      2.25,
+      -7.6,
+      4.5,
+      1,
+      2,
+      1
+     ],
+     "textureOffset": [
+      14,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      -0.75,
+      -4.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      19,
+      109
+     ]
+    }
+   ]
+  },
+  {
+   "part": "tentacle9",
+   "id": "tentacle9",
+   "invertAxis": "xy",
+   "translate": [
+    -6.25,
+    0.6,
+    -5.0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      4.75,
+      -3.6,
+      3.5,
+      3,
+      3,
+      3
+     ],
+     "textureOffset": [
+      24,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      5.25,
+      -7.6,
+      4.0,
+      2,
+      3,
+      2
+     ],
+     "textureOffset": [
+      37,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      5.75,
+      -8.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      46,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      7.25,
+      -5.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      51,
+      109
+     ]
+    },
+    {
+     "coordinates": [
+      4.25,
+      -2.6,
+      4.5,
+      1,
+      1,
+      1
+     ],
+     "textureOffset": [
+      56,
+      109
+     ]
+    }
+   ]
+  }
+ ]
+}
