@@ -1,0 +1,1 @@
+{"variants": {"half=lower": [{"model": "minecraft:block/rose_bush_bottom"}, {"model": "minecraft:block/neme5_rose_bush_bottom_v1"}, {"model": "minecraft:block/neme5_rose_bush_bottom_v2"}], "half=upper": [{"model": "minecraft:block/rose_bush_top"}, {"model": "minecraft:block/neme5_rose_bush_top_v1"}, {"model": "minecraft:block/neme5_rose_bush_top_v2"}]}}

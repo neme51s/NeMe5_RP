@@ -1,0 +1,1 @@
+{"variants": {"half=lower": [{"model": "minecraft:block/tall_grass_bottom"}, {"model": "minecraft:block/neme5_tall_grass_bottom_v1"}, {"model": "minecraft:block/neme5_tall_grass_bottom_v2"}], "half=upper": [{"model": "minecraft:block/tall_grass_top"}, {"model": "minecraft:block/neme5_tall_grass_top_v1"}, {"model": "minecraft:block/neme5_tall_grass_top_v2"}]}}
