@@ -1,0 +1,8 @@
+{
+ "containers": [
+  "minecraft:barrel"
+ ],
+ "textures": {
+  "minecraft:textures/gui/container/generic_54.png": "neme5:gui/chest_barrel.png"
+ }
+}

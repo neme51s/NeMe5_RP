@@ -1,0 +1,9 @@
+{
+ "containers": [
+  "minecraft:copper_chest",
+  "minecraft:waxed_copper_chest"
+ ],
+ "textures": {
+  "minecraft:textures/gui/container/generic_54.png": "neme5:gui/chest_copper.png"
+ }
+}
