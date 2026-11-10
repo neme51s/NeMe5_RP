@@ -1,4 +1,4 @@
-![NeMe5](docs/banner.png)
+![NeMe5](docs/cover.png)
 
 # NeMe5 — реалистичный ресурспак для Minecraft 26.3
 
