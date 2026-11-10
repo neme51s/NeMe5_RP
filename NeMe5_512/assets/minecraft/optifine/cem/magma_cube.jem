@@ -1,0 +1,1516 @@
+{
+ "textureSize": [
+  128,
+  32
+ ],
+ "models": [
+  {
+   "part": "core",
+   "id": "core",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -2.5,
+      3.5,
+      -1.0,
+      1.0,
+      1.5,
+      1.0
+     ],
+     "textureOffset": [
+      120,
+      9
+     ]
+    },
+    {
+     "coordinates": [
+      -2.5,
+      4.0,
+      -1.5,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      3,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -2.5,
+      4.0,
+      0.0,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      6,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      2.5,
+      -0.5,
+      2.0,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      69,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      3.0,
+      -1.0,
+      3.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      26,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      3.0,
+      0.5,
+      3.0,
+      2.0,
+      0.5
+     ],
+     "textureOffset": [
+      0,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      3.5,
+      -1.5,
+      2.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      33,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      3.5,
+      0.0,
+      4.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      38,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      3.5,
+      1.0,
+      1.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      9,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      5.0,
+      -1.0,
+      0.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      13,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -2.0,
+      5.0,
+      0.0,
+      4.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      47,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      2.0,
+      -0.5,
+      1.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      16,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      2.5,
+      -1.5,
+      1.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      21,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      2.5,
+      0.5,
+      2.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      25,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      3.0,
+      -1.5,
+      3.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      56,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      3.0,
+      1.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      63,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      3.5,
+      -2.0,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      31,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      3.5,
+      -1.0,
+      3.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      34,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      3.5,
+      1.5,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      43,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      4.0,
+      -1.5,
+      1.5,
+      1.5,
+      0.5
+     ],
+     "textureOffset": [
+      75,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      4.0,
+      -1.0,
+      0.5,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      79,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      4.0,
+      0.0,
+      3.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      45,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      4.5,
+      1.0,
+      3.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      53,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      5.0,
+      -1.0,
+      3.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      60,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      5.0,
+      0.5,
+      3.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      66,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.5,
+      5.5,
+      -0.5,
+      3.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      68,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      2.0,
+      -1.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      73,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      2.0,
+      0.5,
+      1.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      75,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      3.0,
+      -2.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      79,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      3.0,
+      1.5,
+      1.5,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      82,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      4.0,
+      -1.0,
+      3.0,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      87,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      4.0,
+      1.5,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      76,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      4.5,
+      -2.0,
+      2.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      82,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      5.5,
+      -1.0,
+      2.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      87,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -1.0,
+      5.5,
+      0.5,
+      2.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      92,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      1.5,
+      -1.5,
+      1.5,
+      1.5,
+      1.0
+     ],
+     "textureOffset": [
+      7,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      2.0,
+      -2.0,
+      1.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      97,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      2.0,
+      1.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      101,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      2.5,
+      -2.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      104,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      2.5,
+      1.5,
+      1.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      78,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      3.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      82,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      3.0,
+      2.5,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      85,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      3.5,
+      -2.5,
+      2.0,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      87,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      4.0,
+      -2.0,
+      1.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      106,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      4.0,
+      1.0,
+      2.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      110,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      4.0,
+      1.5,
+      0.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      93,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      4.5,
+      1.5,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      96,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      5.0,
+      -2.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      116,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      5.5,
+      -1.5,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      119,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      -0.5,
+      5.5,
+      1.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      122,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      2.0,
+      -0.5,
+      2.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      99,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      2.0,
+      0.0,
+      0.5,
+      1.5,
+      0.5
+     ],
+     "textureOffset": [
+      95,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      2.5,
+      -2.0,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      104,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      3.0,
+      -2.5,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      125,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      3.0,
+      -0.5,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      0,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      3.5,
+      -3.0,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      3,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      3.5,
+      -1.5,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      106,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      4.0,
+      -2.5,
+      1.0,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      6,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      4.0,
+      1.5,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      9,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.0,
+      4.5,
+      -1.5,
+      1.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      109,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      2.0,
+      0.0,
+      1.5,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      97,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      2.5,
+      1.0,
+      0.5,
+      1.5,
+      0.5
+     ],
+     "textureOffset": [
+      102,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      3.0,
+      -2.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      11,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      3.0,
+      0.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      13,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      3.0,
+      1.5,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      15,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      3.5,
+      1.5,
+      0.5,
+      1.5,
+      0.5
+     ],
+     "textureOffset": [
+      104,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      1.5,
+      -1.0,
+      0.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      113,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      2.0,
+      -1.5,
+      0.5,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      106,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      2.0,
+      1.0,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      116,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      3.0,
+      -1.0,
+      0.5,
+      0.5,
+      2.0
+     ],
+     "textureOffset": [
+      12,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      3.0,
+      1.0,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      118,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      3.5,
+      -1.5,
+      1.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      120,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      3.5,
+      0.5,
+      1.0,
+      1.5,
+      0.5
+     ],
+     "textureOffset": [
+      109,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      3.5,
+      1.5,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      123,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      4.0,
+      -2.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      17,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      2.0,
+      -1.0,
+      0.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      125,
+      21
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      2.5,
+      1.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      19,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      3.0,
+      -1.0,
+      0.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      0,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      3.0,
+      0.0,
+      0.5,
+      0.5,
+      1.0
+     ],
+     "textureOffset": [
+      3,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      3.5,
+      1.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      21,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      1.5,
+      5.0,
+      -0.5,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      23,
+      25
+     ]
+    },
+    {
+     "coordinates": [
+      2.0,
+      2.5,
+      0.0,
+      0.5,
+      0.5,
+      0.5
+     ],
+     "textureOffset": [
+      25,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment1",
+   "id": "segment1",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -5.0,
+      7.0,
+      -4.5,
+      2.0,
+      1.0,
+      1.5
+     ],
+     "textureOffset": [
+      17,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -4.0,
+      7.0,
+      -3.0,
+      8.0,
+      1.0,
+      7.0
+     ],
+     "textureOffset": [
+      64,
+      9
+     ]
+    },
+    {
+     "coordinates": [
+      -3.0,
+      7.0,
+      -4.0,
+      7.0,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      112,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment2",
+   "id": "segment2",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      6.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      0,
+      0
+     ]
+    },
+    {
+     "coordinates": [
+      1.0,
+      6.0,
+      4.0,
+      1.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      6,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment3",
+   "id": "segment3",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      5.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      32,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment4",
+   "id": "segment4",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      4.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      64,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment5",
+   "id": "segment5",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      3.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      96,
+      0
+     ]
+    },
+    {
+     "coordinates": [
+      -2.5,
+      3.0,
+      -4.5,
+      2.5,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      10,
+      23
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment6",
+   "id": "segment6",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      2.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      0,
+      9
+     ]
+    },
+    {
+     "coordinates": [
+      4.0,
+      2.0,
+      1.5,
+      0.5,
+      1.0,
+      1.0
+     ],
+     "textureOffset": [
+      0,
+      21
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment7",
+   "id": "segment7",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.5,
+      1.0,
+      -2.5,
+      8.5,
+      1.0,
+      1.5
+     ],
+     "textureOffset": [
+      24,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -4.0,
+      1.0,
+      -4.0,
+      8.5,
+      1.0,
+      1.5
+     ],
+     "textureOffset": [
+      44,
+      18
+     ]
+    },
+    {
+     "coordinates": [
+      -4.0,
+      1.0,
+      -1.0,
+      8.0,
+      1.0,
+      5.0
+     ],
+     "textureOffset": [
+      94,
+      9
+     ]
+    },
+    {
+     "coordinates": [
+      2.5,
+      1.0,
+      -4.5,
+      2.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      16,
+      23
+     ]
+    },
+    {
+     "coordinates": [
+      4.0,
+      1.0,
+      -2.0,
+      1.0,
+      1.0,
+      1.5
+     ],
+     "textureOffset": [
+      64,
+      18
+     ]
+    }
+   ]
+  },
+  {
+   "part": "segment8",
+   "id": "segment8",
+   "invertAxis": "xy",
+   "translate": [
+    0,
+    0,
+    0
+   ],
+   "boxes": [
+    {
+     "coordinates": [
+      -4.0,
+      0.0,
+      -4.0,
+      8.0,
+      1.0,
+      8.0
+     ],
+     "textureOffset": [
+      32,
+      9
+     ]
+    },
+    {
+     "coordinates": [
+      0.5,
+      0.0,
+      -4.5,
+      2.0,
+      1.0,
+      0.5
+     ],
+     "textureOffset": [
+      21,
+      23
+     ]
+    }
+   ]
+  }
+ ]
+}
